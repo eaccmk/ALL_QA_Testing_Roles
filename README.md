@@ -3,7 +3,7 @@ This is a public repository containing list of all the Roles in Quality and Test
 
 
 | Name                                        |  Notes      |
-|---------------------------------------------||
+|---------------------------------------------|-------------|
 |Agile QA                                     ||
 |Agile Test Analyst                           ||
 |API Automation Tester                        ||
