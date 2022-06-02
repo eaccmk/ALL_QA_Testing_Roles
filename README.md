@@ -1,6 +1,12 @@
-# ALL_QA_Testing_Roles
-This is a public repository containing list of all the Roles in Quality and Testing space. Software or Hardware Engineering. Add yours below.
+# ALL QA Testing Roles 🌐 globally
 
+This is a `public repository` containing list of **all the Roles in Quality and Testing space** including *software or Hardware Engineering*. 
+
+👉  Raise a PR :octocat: and add a missing role from your company or history. 🙏
+
+Having troubles or have a suggestion Contact me on [Linkedin (Millan Kaul)](https://au.linkedin.com/in/millankaul)
+
+<br>
 
 | Name                                        |  Notes      |
 |---------------------------------------------|-------------|
