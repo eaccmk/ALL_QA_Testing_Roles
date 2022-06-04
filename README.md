@@ -1,8 +1,10 @@
 # ALL QA Testing Roles 🌐 globally
 
-This is a `public repository` containing list of **all the Roles in Quality and Testing space** including *software or Hardware Engineering*. 
+This is a `public repository` containing list of **all the Roles & Designations in Quality and Testing space** including *Software or Hardware Engineering*. 
 
-👉  Raise a PR :octocat: and add a missing role from your company or history. 🙏
+👉  Raise a PR :octocat: and add a missing role or designation from your company or history. 🙏
+
+👉 Alternatively, you can also submit the details via this [Google Form](https://forms.gle/sqpcmzpF5P4tS1p4A) and we would update them on your behalf.
 
 Having troubles or have a suggestion Contact me on [Linkedin (Millan Kaul)](https://au.linkedin.com/in/millankaul)
 
@@ -63,10 +65,10 @@ Having troubles or have a suggestion Contact me on [Linkedin (Millan Kaul)](http
 |Quality Assistance Analyst                   ||
 |Quality Assurance Analyst                    ||
 |Quality Assurance Test Analyst               ||
-Quality Engineer                              ||
+|Quality Engineer                              ||
 |Quality Engineer Graduate                    ||
 |Quality Engineer Intern                      ||
-Quality Lead                                  || 
+|Quality Lead                                  || 
 |Salesforce Test Analyst                      ||
 |Security Quality Assurance Engineer          ||
 |Senior Analyst Quality                       ||
@@ -77,7 +79,6 @@ Quality Lead                                  ||
 |Senior Manual Test Analyst                   ||
 |Senior Platform QA                           ||
 |Senior QA                                    ||
-|SENIOR QA                                    ||
 |Senior QA Engineer                           ||
 |Senior QA Specialist                         ||
 |Senior Quality Assurance Analyst             ||
@@ -90,9 +91,12 @@ Quality Lead                                  ||
 |Senior Test Engineer                         ||
 |Senior Tester                                ||
 |Senior Testing Associate                     ||
-Software Development Engineer in Test (SDET)  ||
+|Software Development Engineer in Test (SDET)  ||
 |Software Engineer – Test Automation          ||
 |Software Engineer in Test                    ||
+|Software Engineer                            |ifm engineering|
+|Senior Software Engineer                     |ifm engineering|
+|Principal Software Engineer                  |ifm engineering|
 |Software QA                                  ||
 |Software QA Engineer                         ||
 |Software Test Analyst                        ||
@@ -121,4 +125,3 @@ Software Development Engineer in Test (SDET)  ||
 |User Experience Tester                       ||
 |Validation and Verification Engineer         ||
 |Web Quality Assurance                        ||
-
