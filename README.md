@@ -1,14 +1,27 @@
 # ALL QA Testing Roles 🌐 globally
 
-This is a `public repository` containing list of **all the Roles & Designations in Quality and Testing space** including *Software or Hardware Engineering*. 
+This is a `public repository` containing list of **all the Roles & Designations in Quality and Testing space** including *Software or Hardware Engineering*.
 
-👉  Raise a PR :octocat: and add a missing role or designation from your company or history. 🙏
+---------
 
-👉 Alternatively, you can also submit the details via this [Google Form](https://forms.gle/sqpcmzpF5P4tS1p4A) and we would update them on your behalf.
+### How to add Roles / Designations (contribution)
 
-Having troubles or have a suggestion Contact me on [Linkedin (Millan Kaul)](https://au.linkedin.com/in/millankaul)
+As far as you are following [code of conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/) you have below :v: options to contribute.
 
-<br>
+**1. GitHub Pull Request /PR :** Raise a PR :octocat: to add a missing role or designation from your current or previous company. 🙏
+
+**2. Google Form :** You can also submit the details via this simple [Google Form](https://forms.gle/sqpcmzpF5P4tS1p4A) 📝 and we will update them on your behalf.
+
+---------
+
+### Contact
+
+**For Issues /Bug :** You can raise an [issue on github](https://github.com/eaccmk/ALL_QA_Testing_Roles/issues) / bug 🐛 😉 or
+
+**For Suggestions /ideas :** Get in touch with either 🤝 [Millan Kaul](https://au.linkedin.com/in/millankaul) or [Rahul Parwal](https://www.linkedin.com/in/rahul-parwal/)
+
+---------
+
 
 | Name                                        |  Notes      |
 |---------------------------------------------|-------------|
@@ -60,15 +73,15 @@ Having troubles or have a suggestion Contact me on [Linkedin (Millan Kaul)](http
 |QA Senior Test Analyst                       ||
 |QA Test Lead                                 ||
 |QA Tester                                    ||
-|Quality Advocate                             ||
+|Quality Advocate                             |[Tyro Payments](https://www.tyro.com/about-tyro/careers/)|
 |Quality Analyst                              ||
 |Quality Assistance Analyst                   ||
 |Quality Assurance Analyst                    ||
 |Quality Assurance Test Analyst               ||
-|Quality Engineer                              ||
-|Quality Engineer Graduate                    ||
-|Quality Engineer Intern                      ||
-|Quality Lead                                  || 
+|Quality Engineer                             |[Tyro Payments](https://www.tyro.com/about-tyro/careers/)|
+|Quality Engineer Graduate                    |[Tyro Payments](https://www.tyro.com/about-tyro/careers/)|
+|Quality Engineer Intern                      |[Tyro Payments](https://www.tyro.com/about-tyro/careers/)|
+|Quality Lead                                 |[Tyro Payments](https://www.tyro.com/about-tyro/careers/)| 
 |Salesforce Test Analyst                      ||
 |Security Quality Assurance Engineer          ||
 |Senior Analyst Quality                       ||
@@ -91,12 +104,12 @@ Having troubles or have a suggestion Contact me on [Linkedin (Millan Kaul)](http
 |Senior Test Engineer                         ||
 |Senior Tester                                ||
 |Senior Testing Associate                     ||
-|Software Development Engineer in Test (SDET)  ||
+|Software Development Engineer in Test (SDET) ||
 |Software Engineer – Test Automation          ||
 |Software Engineer in Test                    ||
-|Software Engineer                            |ifm engineering|
-|Senior Software Engineer                     |ifm engineering|
-|Principal Software Engineer                  |ifm engineering|
+|Software Engineer                            |[ifm engineering](https://www.ifm.com/in/en/in/company/career/job-opportunities)|
+|Senior Software Engineer                     |[ifm engineering](https://www.ifm.com/in/en/in/company/career/job-opportunities)|
+|Principal Software Engineer                  |[ifm engineering](https://www.ifm.com/in/en/in/company/career/job-opportunities)|
 |Software QA                                  ||
 |Software QA Engineer                         ||
 |Software Test Analyst                        ||
