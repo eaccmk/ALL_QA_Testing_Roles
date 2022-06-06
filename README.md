@@ -62,6 +62,7 @@ As far as you are following [code of conduct](https://www.contributor-covenant.o
 |Principal Systems Test Engineer              ||
 |Program Test Manager                         ||
 |Project Test Lead                            ||
+|Product Acceptance Analyst                   |[SELISE](https://selise.ch/)|
 |QA Analyst                                   ||
 |QA Automation Engineer                       ||
 |QA Automation Tester                         ||
