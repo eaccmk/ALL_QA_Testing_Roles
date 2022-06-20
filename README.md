@@ -18,7 +18,7 @@ As far as you are following [code of conduct](https://www.contributor-covenant.o
 
 **For Issues /Bug :** You can raise an [issue on github](https://github.com/eaccmk/ALL_QA_Testing_Roles/issues) / bug 🐛 😉 or
 
-**For Suggestions /ideas :** Get in touch with either 🤝 [Millan Kaul](https://au.linkedin.com/in/millankaul) or [Rahul Parwal](https://www.linkedin.com/in/rahul-parwal/)
+**For Suggestions / ideas :** Get in touch with either 🤝 [Millan Kaul](https://au.linkedin.com/in/millankaul) or [Rahul Parwal](https://www.linkedin.com/in/rahul-parwal/)
 
 ---------
 
@@ -30,12 +30,14 @@ As far as you are following [code of conduct](https://www.contributor-covenant.o
 |API Automation Tester                        ||
 |API Tester                                   ||
 |Associate Quality Assurance Engineer         ||
+|ASSC CONSULTANT                              ||
 |Automation Architect                         ||
 |Automation Engineer                          ||
 |Automation Software Tester                   ||
 |Automation Test Analyst                      ||
 |Automation Test Lead                         ||
 |Automation Tester                            ||
+|Consultant                                   ||
 |Digital Test Analyst                         ||
 |ERP Test Manager                             ||
 |ETL Test Analyst                             ||
@@ -123,6 +125,7 @@ As far as you are following [code of conduct](https://www.contributor-covenant.o
 |Technical Test Lead                          ||
 |Test Analyst                                 ||
 |Test Automation Specialist                   ||
+|Test Consultant                              ||
 |Test Engineer                                ||
 |Test Engineer III                            ||
 |Test Engineer Lead                           ||
