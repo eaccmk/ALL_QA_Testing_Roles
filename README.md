@@ -91,6 +91,7 @@ As far as you are following [code of conduct](https://www.contributor-covenant.o
 |Senior Automation Test Analyst               ||
 |Senior Automation Tester                     ||
 |Senior Database Tester                       ||
+|Senior Engineering Lead Quality              |[Persistent Systems](https://www.persistent.com/careers/)|
 |Senior Manual Test Analyst                   ||
 |Senior Platform QA                           ||
 |Senior QA                                    ||
