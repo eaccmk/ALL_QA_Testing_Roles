@@ -30,6 +30,7 @@ As far as you are following [code of conduct](https://www.contributor-covenant.o
 |API Automation Tester                        ||
 |API Tester                                   ||
 |Associate Quality Assurance Engineer         ||
+|Associate Software Test Engineer                |[Qapitol QA](https://www.qapitol.com/careers/)|
 |Automation Architect                         ||
 |Automation Engineer                          ||
 |Automation Software Tester                   ||
@@ -98,6 +99,7 @@ As far as you are following [code of conduct](https://www.contributor-covenant.o
 |Senior Quality Assurance Analyst             ||
 |Senior SDET Engineer                         ||
 |Senior Software Quality Manager              ||
+|Senior Software Test Engineer                |[Qapitol QA](https://www.qapitol.com/careers/)|
 |Senior Systems Test Engineer                 ||
 |Senior Test Analyst                          ||
 |Senior Test Analyst - Automation             ||
@@ -115,14 +117,16 @@ As far as you are following [code of conduct](https://www.contributor-covenant.o
 |Software QA Engineer                         ||
 |Software Test Analyst                        ||
 |Software Test Engineer                       ||
-|Software Tester                              ||
+|Software Tester                              |[Aspire Webs](https://aspirewebs.com/career.html)|
 |Software Tester SaaS                         ||
 |Software Testing Analyst                     ||
+|Specialist Quality                           ||[Larsen and Infotech](https://www.lntinfotech.com/careers/)|
 |System Integration Test Analyst              ||
 |Team Leader - Testing                        ||
 |Technical Test Lead                          ||
 |Test Analyst                                 ||
 |Test Automation Specialist                   ||
+|Test Automation Engineer                     |[Singularity Data](https://singularity-data.com/)|
 |Test Engineer                                ||
 |Test Engineer III                            ||
 |Test Engineer Lead                           ||
