@@ -63,6 +63,7 @@ As far as you are following [code of conduct](https://www.contributor-covenant.o
 |Portfolio Test Manager                       ||
 |Principal – Quality Engineering              ||
 |Principal Systems Test Engineer              ||
+|Principal SDET                               ||
 |Program Test Manager                         ||
 |Project Test Lead                            ||
 |Product Acceptance Analyst                   |[SELISE](https://selise.ch/)|
