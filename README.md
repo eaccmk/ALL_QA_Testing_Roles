@@ -31,7 +31,7 @@ As far as you are following [code of conduct](https://www.contributor-covenant.o
 |API Tester                                   ||
 |Associate Quality Assurance Engineer         ||
 |ASSC CONSULTANT                              ||
-|Associate Software Test Engineer                |[Qapitol QA](https://www.qapitol.com/careers/)|
+|Associate Software Test Engineer             |[Qapitol QA](https://www.qapitol.com/careers/)|
 |Automation Architect                         ||
 |Automation Engineer                          ||
 |Automation Software Tester                   ||
@@ -55,8 +55,12 @@ As far as you are following [code of conduct](https://www.contributor-covenant.o
 |Integration Tester                           ||
 |Junior Automation Tester                     ||
 |Junior QA                                    ||
+|Lead SDET                                    ||
+|Lead SDiT                                    ||
+|Lead Software Developer in Test              ||
 |Lead Test Engineer                           ||
 |Lead, Testing                                ||
+|Lead QA                                      ||
 |Manual Test Analyst                          ||
 |Manual Tester                                ||
 |Performance Tester                           ||
@@ -88,6 +92,7 @@ As far as you are following [code of conduct](https://www.contributor-covenant.o
 |Quality Engineer Intern                      |[Tyro Payments](https://www.tyro.com/about-tyro/careers/)|
 |Quality Lead                                 |[Tyro Payments](https://www.tyro.com/about-tyro/careers/)| 
 |Salesforce Test Analyst                      ||
+|SDET                                         ||
 |Security Quality Assurance Engineer          ||
 |Senior Analyst Quality                       ||
 |Senior API Test Engineer                     ||
