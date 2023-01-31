@@ -3,6 +3,11 @@
 This is a `public repository` containing list of **all the Roles & Designations in Quality and Testing space** including *Software or Hardware Engineering*.
 
 ---------
+<p align="center">
+  <img src="roles.png" alt="image showing 4 versions of pen /pencil">
+</p>
+
+---------
 
 ### How to add Roles / Designations (contribution)
 
